@@ -1,4 +1,4 @@
-#Programa para calcular el promedio de tres numeros
+# Programa para calcular el promedio de tres numeros
 num1 = float(input("Número 1: "))
 num2 = float(input("Número 2: "))
 num3 = float(input("Número 3: "))
